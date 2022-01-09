@@ -1,0 +1,34 @@
+:root {
+    --white-color: white;
+    --black-color: black;
+    --text-color: #333;
+    
+}
+* {
+    box-sizing: inherit;
+}
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    
+}
+/* Animation */
+@keyframes faceIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+
+    }
+    to {
+        
+    }
+}
